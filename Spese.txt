@@ -1,0 +1,5 @@
+Data;Categoria;Descrizione;Importo
+2021/9/3;Viaggio;Firenze;200
+2021/9/9;Alloggio;Milano;3000
+2021/9/19;Vitto;Cagliari;1500
+2021/9/2;Cibo;Venezia;50

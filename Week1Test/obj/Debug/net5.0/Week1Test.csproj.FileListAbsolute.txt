@@ -1,0 +1,16 @@
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\bin\Debug\net5.0\Week1Test.exe
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\bin\Debug\net5.0\Week1Test.deps.json
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\bin\Debug\net5.0\Week1Test.runtimeconfig.json
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\bin\Debug\net5.0\Week1Test.runtimeconfig.dev.json
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\bin\Debug\net5.0\Week1Test.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\bin\Debug\net5.0\ref\Week1Test.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\bin\Debug\net5.0\Week1Test.pdb
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\Week1Test.csproj.AssemblyReference.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\Week1Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\Week1Test.AssemblyInfoInputs.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\Week1Test.AssemblyInfo.cs
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\Week1Test.csproj.CoreCompileInputs.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\Week1Test.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\ref\Week1Test.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\Week1Test.pdb
+C:\Users\michael.locci\Desktop\AcademyG\Week1Test\Week1Test\Week1Test\obj\Debug\net5.0\Week1Test.genruntimeconfig.cache
